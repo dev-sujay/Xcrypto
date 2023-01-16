@@ -37,7 +37,7 @@ const Home = () => {
         fontWeight={"thin"}
         fontSize={"6xl"}
         color={"whiteAlpha.700"}
-        mt={"-20"}>Xcrypto</Text>
+        mt={"-20"}>Cryptix</Text>
 
     </Box>
   )
